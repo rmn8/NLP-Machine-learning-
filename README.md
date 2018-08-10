@@ -14,6 +14,9 @@ Data is collected from Rotten Tomato https://www.rottentomatoes.com/ using a web
 The program gives an efficiency of 81.31%
 
 Good  Bad  (predicted)
+
 Good 203  94
+
 Bad  74   528
+
 (True)
